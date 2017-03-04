@@ -1,5 +1,4 @@
 language: python
 python:
   - "3.4"
-install: pip install pytest
 script: python3 -m pytest
